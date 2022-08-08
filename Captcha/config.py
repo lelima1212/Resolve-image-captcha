@@ -1,5 +1,5 @@
 from twocaptcha import TwoCaptcha
-API_KEY = '4f098de090a5156bdec28cc240725c2b'
+API_KEY = ''
 
 config = {
             'server':           '2captcha.com',
